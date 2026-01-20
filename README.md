@@ -1,4 +1,4 @@
-# Template_project for collaboration
+# 24f2008896_git_challenge_lab
 
 ### Follow the steps
 
